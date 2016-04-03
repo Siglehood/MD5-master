@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MD5</string>
+    <string name="hint_username">请输入用户名…</string>
+    <string name="hint_password">请输入密码…</string>
+    <string name="button_save">保存</string>
+    <string name="button_login">登录</string>
+</resources>
